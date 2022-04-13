@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Conditionals_Carmichael _Nathan/1.0.0": {
+        "runtime": {
+          "Conditionals_Carmichael _Nathan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditionals_Carmichael _Nathan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
