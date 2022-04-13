@@ -1,0 +1,13 @@
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\obj\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.csproj.AssemblyReference.cache
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\obj\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.AssemblyInfoInputs.cache
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\obj\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.AssemblyInfo.cs
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\obj\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.csproj.CoreCompileInputs.cache
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\bin\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.exe
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\bin\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.deps.json
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\bin\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.runtimeconfig.json
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\bin\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.runtimeconfig.dev.json
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\bin\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.dll
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\bin\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.pdb
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\obj\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.dll
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\obj\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.pdb
+C:\Users\ncarmichael\source\repos\Strings_Carmichael_Nathan\Strings_Carmichael_Nathan\obj\Debug\netcoreapp3.1\Strings_Carmichael_Nathan.genruntimeconfig.cache
