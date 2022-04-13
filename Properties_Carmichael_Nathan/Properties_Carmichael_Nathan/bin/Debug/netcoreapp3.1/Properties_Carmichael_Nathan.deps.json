@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Properties_Carmichael_Nathan/1.0.0": {
+        "runtime": {
+          "Properties_Carmichael_Nathan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Properties_Carmichael_Nathan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
